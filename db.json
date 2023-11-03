@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "fdsafds",
+      "image": "https://static.wikia.nocookie.net/telletubbies/images/e/e5/Tinky_Winky.jpg/revision/latest?cb=20230429024138",
+      "price": -0.04,
+      "id": 8
     }
   ]
 }
